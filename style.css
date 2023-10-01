@@ -13,10 +13,11 @@ body {
   margin-left: 6px;
   margin-right: 6px;
 }
-/* footer{
+footer{
   position: relative;
-top: 450px;
-} */
+  top: 450px;
+  padding: 5px;
+}
 
 /* Navbar- Navigation bar of the website */
 
